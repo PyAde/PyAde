@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/4DEF84bYG2AAAAAd/stray-programming.gif" width="100" height="50" alt="program">
+<img src="https://media.tenor.com/4DEF84bYG2AAAAAd/stray-programming.gif" width="auto" height="50" alt="program">
 <h1 align="center">Hi 👋, I'm Putu Adelio</h1>
 <h3 align="center">PELAJAR SMA</h3>
 
