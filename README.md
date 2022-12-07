@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Putu Adelio</h1>
-<h3 align="center">PELAJAR </h3>
+<h3 align="center">PELAJAR SMA</h3>
 
 - 🌱 I’m currently learning **Laravel, PhP,C, dll**
 
