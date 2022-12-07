@@ -1,4 +1,4 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <img src="https://media.tenor.com/4DEF84bYG2AAAAAd/stray-programming.gif" width="1000" height="350" alt="program">
 <h1 align="center">Hi 👋, I'm Putu Adelio</h1>
 <h3 align="center">PELAJAR SMA</h3>
