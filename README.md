@@ -1,4 +1,4 @@
-<p><img text-align="center" src="https://media.tenor.com/4DEF84bYG2AAAAAd/stray-programming.gif" alt="pyade" /></p>
+
 <h1 align="center">Hi 👋, I'm Putu Adelio</h1>
 <h3 align="center">PELAJAR SMA</h3>
 
@@ -7,6 +7,8 @@
 - 👨‍💻 All of my projects are available at [https://portofolio-putu.adelioputra.repl.co/](https://portofolio-putu.adelioputra.repl.co/)
 
 - 💬 Ask me about **Programming**
+
+<img align="center" alt="gif" src="https://media.tenor.com/4DEF84bYG2AAAAAd/stray-programming.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
