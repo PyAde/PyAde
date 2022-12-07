@@ -1,5 +1,5 @@
-
-<img src="https://media.tenor.com/4DEF84bYG2AAAAAd/stray-programming.gif" align="center" width="500" height="200" alt="program">
+<p><img align="center" src="https://media.tenor.com/4DEF84bYG2AAAAAd/stray-programming.gif" alt="pyade" /></p>
+<img src=" align="center" width="500" height="200" alt="program">
 <h1 align="center">Hi 👋, I'm Putu Adelio</h1>
 <h3 align="center">PELAJAR SMA</h3>
 
