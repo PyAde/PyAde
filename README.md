@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Putu Adelio</h1>
-<h3 align="center">PELAJAR SMA</h3>
+<h1 align="center">Hi , I'm Adelio</h1>
+<h3 align="center">PELAJAR</h3>
 
-- 🌱 I’m currently learning **Laravel, PhP,C, dll**
+-  I’m currently learning **Laravel, PhP,C, dll**
 
-- 👨‍💻 All of my projects are available at [https://portofolio-putu.adelioputra.repl.co/](https://portofolio-putu.adelioputra.repl.co/)
+-  All of my projects are available at [https://portofolio-putu.adelioputra.repl.co/](https://portofolio-putu.adelioputra.repl.co/)
 
-- 💬 Ask me about **Programming**
+-  Ask me about **Programming**
 
 <img align="center" alt="gif" src="https://media.tenor.com/4DEF84bYG2AAAAAd/stray-programming.gif">
 
