@@ -9,7 +9,7 @@
 
 -  Ask me about **Programming**
 
-<img align="left" width="1000" height="400" alt="gif" src="https://media.tenor.com/4DEF84bYG2AAAAAd/stray-programming.gif" >
+
 
 
 
