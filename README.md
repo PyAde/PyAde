@@ -9,7 +9,7 @@
 
 -  Ask me about **Programming**
 
-<img align="right" width="400" alt="gif" src="https://media.tenor.com/4DEF84bYG2AAAAAd/stray-programming.gif" >
+<img align="left" width="auto" alt="gif" src="https://media.tenor.com/4DEF84bYG2AAAAAd/stray-programming.gif" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
