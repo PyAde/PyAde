@@ -8,7 +8,7 @@
 
 -  Ask me about **Programming**
 
-<img align="center" alt="gif" src="https://media.tenor.com/4DEF84bYG2AAAAAd/stray-programming.gif">
+<img align="center" alt="gif" src="https://media.tenor.com/4DEF84bYG2AAAAAd/stray-programming.gif" widht="w-full>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
