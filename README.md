@@ -4,11 +4,12 @@
 
 -  I’m currently learning **Laravel, PhP,C, dll**
 
--  All of my projects are available at [https://portofolio-putu.adelioputra.repl.co/](https://portofolio-putu.adelioputra.repl.co/)
+-  All of my projects are available at...
+-  
 
 -  Ask me about **Programming**
 
-<img align="center" alt="gif" src="https://media.tenor.com/4DEF84bYG2AAAAAd/stray-programming.gif" widht="w-full>
+<img align="center" alt="gif" src="https://media.tenor.com/4DEF84bYG2AAAAAd/stray-programming.gif" widht="w-full">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
