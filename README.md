@@ -5,11 +5,11 @@
 -  I’m currently learning **Laravel, PhP,C, dll**
 
 -  All of my projects are available at...
--  
+
 
 -  Ask me about **Programming**
 
-<img align="center" alt="gif" src="https://media.tenor.com/4DEF84bYG2AAAAAd/stray-programming.gif" widht="w-full">
+<img align="right" width="400" alt="gif" src="https://media.tenor.com/4DEF84bYG2AAAAAd/stray-programming.gif" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
