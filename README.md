@@ -1,6 +1,6 @@
 
 
-<img src="https://i.ibb.co/tP08WQk/PY-ADE.jpg" alt="PY-ADE">
+<img src="https://imgur.com/a/UJjkeaa">
 
 
 ## 🌐 Socials:
