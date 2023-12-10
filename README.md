@@ -1,6 +1,6 @@
 
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/tP08WQk/PY-ADE.jpg" alt="PY-ADE" width="421" height="105" style="width: 421px; height: 105px;" border="0" /></a>
+<img src="https://i.ibb.co/tP08WQk/PY-ADE.jpg" alt="PY-ADE" width="300" height="200">
 
 
 ## 🌐 Socials:
