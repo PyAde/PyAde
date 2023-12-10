@@ -1,6 +1,6 @@
 
 
-<img src="https://i.ibb.co/tP08WQk/PY-ADE.jpg" alt="PY-ADE" width="300" height="200">
+<img src="https://i.ibb.co/tP08WQk/PY-ADE.jpg" alt="PY-ADE" width="421" height="105">
 
 
 ## 🌐 Socials:
