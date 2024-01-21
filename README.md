@@ -1,5 +1,4 @@
-<img src="https://ibb.co/QXvndCY"/>
-
+<img src="https://i.imgur.com/bX4zIRO.png"/>
 
 
 ## 🌐 Socials:
