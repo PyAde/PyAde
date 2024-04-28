@@ -1,5 +1,5 @@
 <a href="https://ibb.co/y0jFWRP" target="_blank">
-  <img src="https://i.ibb.co/VV4Y2N9/PY-ADE-1.png" alt="PY-ADE-1" style="width:100%; height:auto;" />
+  <img src="https://cdn.discordapp.com/attachments/1067644201870819370/1234091826206474320/Py.png?ex=662f7913&is=662e2793&hm=d7915d3cb1b3d330b980935ab8d257b3c0d698309b4932dcc55b8202064a85a1&" alt="PY-ADE-1" style="width:100%; height:auto;" />
 </a>
 
 
