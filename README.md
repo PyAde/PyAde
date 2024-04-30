@@ -1,5 +1,5 @@
 <a href="https://ibb.co/y0jFWRP" target="_blank">
-  <img src="https://cdn.discordapp.com/attachments/1067644201870819370/1234093139317493861/Desain_tanpa_judul_1.png?ex=662f7a4c&is=662e28cc&hm=7eb49e7678faae171e4b605d9fef5e529670954e892861a3fedf6aacafe576de&" alt="PY-ADE-1" style="width:100%; height:auto;" />
+  <img src="[https://cdn.discordapp.com/attachments/1067644201870819370/1234093139317493861/Desain_tanpa_judul_1.png?ex=662f7a4c&is=662e28cc&hm=7eb49e7678faae171e4b605d9fef5e529670954e892861a3fedf6aacafe576de&](https://cdn.discordapp.com/attachments/1067644201870819370/1234888946316738642/Ade_2.png?ex=66325f73&is=66310df3&hm=c54b5e5acb21933ea7d4b097cb6395bd35c81ae57a74e41cdd545b02f504a157&)" alt="PY-ADE-1" style="width:100%; height:auto;" />
 </a>
 
 
