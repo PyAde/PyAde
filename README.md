@@ -41,8 +41,6 @@
 
 <br/>  
 
-
-## Connect with me  
 <div align="center">
   
 </div>  
