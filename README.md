@@ -1,1 +1,1 @@
-<img src="https://cdn.discordapp.com/attachments/1067644201870819370/1306486921861791814/Tambahkan_judul.png?ex=6736d843&is=673586c3&hm=38d0d70aba078fd303cdc64684c52aebbfb4eba85159360b138ce11f485c45df&"/>
+<img src="https://cdn.discordapp.com/attachments/1067644201870819370/1306486921861791814/Tambahkan_judul.png?ex=676a42c3&is=6768f143&hm=429de938e4f218e2c6ca0507d91d28642584f4c9b2454309b013da0a34d1e693&"/>
