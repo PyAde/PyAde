@@ -5,10 +5,10 @@
 </div>
 
 ---
-
+## 🛠️ Tech Stack
 <div align="center">
 
-## 🛠️ Tech Stack
+
 
 <table border="0" align="center">
   <tr>
