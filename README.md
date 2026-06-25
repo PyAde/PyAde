@@ -28,7 +28,8 @@
 ## 👨‍💻 Tentang Saya
 
 ```
-Enthusiastic about learning new concepts, particularly the application of mathematics in real-world scenarios and its implementation in programming to solve real-life problems.
+Enthusiastic about learning new concepts, particularly the application of mathematics in real-world
+ scenarios and its implementation in programming to solve real-life problems.
 
 Currently focusing on:
 
@@ -47,16 +48,3 @@ Currently focusing on:
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=PyAde&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 ---
-
-## 💡 Skills Lainnya
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"> 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
-
----
-
-## 📞 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/PyAde)
