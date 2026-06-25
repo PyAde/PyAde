@@ -31,7 +31,7 @@
 
 ---
 
-<div align="center">
+
 
 ## 👨‍💻 About Me
 
@@ -46,7 +46,7 @@ Currently focusing on:
 → Emerging Technologies
 ```
 
-</div>
+
 
 ---
 
