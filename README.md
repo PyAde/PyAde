@@ -28,14 +28,13 @@
 ## 👨‍💻 Tentang Saya
 
 ```
-Suka mempelajari hal baru termasuk beberapa penerapan matematika 
-pada kehidupan nyata lalu menerapkan pada bidang pemrograman 
-untuk membantu menangani atau memecahkan permasalahan. 
+Enthusiastic about learning new concepts, particularly the application of mathematics in real-world scenarios and its implementation in programming to solve real-life problems.
 
-Saat ini fokus belajar tentang:
-  → Data Science
-  → Machine Learning
-  → Teknologi-teknologi baru lainnya
+Currently focusing on:
+
+→ Data Science
+→ Machine Learning
+→ Emerging Technologies
 ```
 
 ---
