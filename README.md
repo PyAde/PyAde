@@ -1,6 +1,6 @@
 
 
-![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+PyAde's+Portfolio)
+![Banner](https://media.discordapp.net/attachments/1067644201870819370/1519750672566845570/Desain_tanpa_judul.png?ex=6a3eb19b&is=6a3d601b&hm=cf80c55b14bda1beb1f15523cdc00b7e476800f153de6c82dcbd79000cc40441&=&format=webp&quality=lossless)
 
 ---
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 👨‍💻 Tentang Saya
+## About Me
 
 ```
 Enthusiastic about learning new concepts, particularly the application of mathematics in real-world
