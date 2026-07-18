@@ -2,18 +2,7 @@
 
 
 
-## 👨‍💻 About Me
 
-```
-Enthusiastic about learning new concepts, particularly the application 
-of mathematics in real-world scenarios and its implementation in 
-programming to solve real-life problems.
-
-Currently focusing on:
-→ Data Science
-→ Machine Learning
-→ Emerging Technologies
-```
 
 
 
