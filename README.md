@@ -1,33 +1,4 @@
-<div align="center">
 
-![Banner](https://media.discordapp.net/attachments/1067644201870819370/1519750672566845570/Desain_tanpa_judul.png?ex=6a3eb19b&is=6a3d601b&hm=cf80c55b14bda1beb1f15523cdc00b7e476800f153de6c82dcbd79000cc40441&=&format=webp&quality=lossless)
-
-</div>
-
----
-## 🛠️ Tech Stack
-
-<div align="center">
-<table border="0" align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="64" height="64" alt="Linux"/>
-      <br><strong>Linux</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="64" height="64" alt="MongoDB"/>
-      <br><strong>MongoDB</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="64" height="64" alt="Python"/>
-      <br><strong>Python</strong>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
 
 
 
