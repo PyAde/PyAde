@@ -1,5 +1,7 @@
 
-
+<img src="https://github.com/user-attachments/assets/0f01a378-7fec-405b-bcc8-615f882aa641" alt="fastfetch style profile" width="1220" height="540" />
+</p>
+<br>
 
 
 
